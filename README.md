@@ -1,0 +1,1 @@
+To run the program, execute it from the command line as you would with any standard Python script. You may encounter a warning message: "I tensorflow/core/util/port.cc:153] oneDNN custom operations are on." You can either ignore this warning or resolve it by setting the environment variable TF_ENABLE_ONEDNN_OPTS to 0 before running the code.
